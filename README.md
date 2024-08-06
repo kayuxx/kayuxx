@@ -3,7 +3,7 @@ Hey There 👋
 I am a Front-End Developer. I spend most of my time coding, building web applications, and exploring new technologies.
 
 - 🔭 I’m currently working on [Amee](https://github.com/kayuxx/amee)
-- 🌱 I’m currently focused on Back-End technologies and Mobile app development
+- 🌱 I’m currently focused on Back-End technologies
 
 Get in touch with me on:
 
